@@ -7070,11 +7070,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desafios\\ContaCorrenteBancaria\\tests\\CCB.Tests\\CCB.Tests.csproj",
+      "projectUniqueName": "D:\\Repos\\tests\\CCB.Tests\\CCB.Tests.csproj",
       "projectName": "CCB.Tests",
-      "projectPath": "D:\\Desafios\\ContaCorrenteBancaria\\tests\\CCB.Tests\\CCB.Tests.csproj",
+      "projectPath": "D:\\Repos\\tests\\CCB.Tests\\CCB.Tests.csproj",
       "packagesPath": "C:\\Users\\gigis\\.nuget\\packages\\",
-      "outputPath": "D:\\Desafios\\ContaCorrenteBancaria\\tests\\CCB.Tests\\obj\\",
+      "outputPath": "D:\\Repos\\tests\\CCB.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -7095,8 +7095,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Web\\CCB.Web.csproj": {
-              "projectPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Web\\CCB.Web.csproj"
+            "D:\\Repos\\src\\CCB.Web\\CCB.Web.csproj": {
+              "projectPath": "D:\\Repos\\src\\CCB.Web\\CCB.Web.csproj"
             }
           }
         }

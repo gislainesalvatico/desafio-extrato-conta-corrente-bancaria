@@ -1,18 +1,25 @@
-﻿using CCB.Domain.Model;
+﻿using System;
+using CCB.Domain.Model;
 using CCB.Infra.Data.Mapping;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 
 namespace CCB.Infra.Data.Context
 {
     public class MySqlContext : DbContext
     {
+        private const string ConnectionString = "ConnectionString";
         public DbSet<Extrato> Extrato { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseMySql("Server=localhost;Database=ccb;Uid=admin;Pwd=GMS123;");
+                var configuration = new ConfigurationBuilder()
+                    .SetBasePath(AppDomain.CurrentDomain.BaseDirectory)
+                    .AddJsonFile("appsettings.json")
+                    .Build();
+                optionsBuilder.UseMySql(configuration[ConnectionString]);
             }
         }
 

@@ -12,6 +12,7 @@ namespace CCB.Web.Controllers
     {
         private BaseService<Domain.Model.Extrato> _service = new BaseService<Domain.Model.Extrato>();
         private readonly IMapper _mapper;
+        private const string SaldoInsuficiente = "Saldo insuficiente";
 
         public ExtratosController(IMapper mapper)
         {
@@ -59,7 +60,7 @@ namespace CCB.Web.Controllers
             var listExtrato = _mapper.Map<IEnumerable<Models.Extrato>>(_service.Get()).ToList();
            
             if (extrato.SaldoInsuficiente(extrato.Saldo(listExtrato), extrato.Valor))
-                ModelState.AddModelError(nameof(extrato.Valor), "Saldo insuficiente");
+                ModelState.AddModelError(nameof(extrato.Valor), SaldoInsuficiente);
 
             if (ModelState.IsValid)
             {
@@ -85,7 +86,7 @@ namespace CCB.Web.Controllers
             var listExtrato = _mapper.Map<IEnumerable<Models.Extrato>>(_service.Get()).ToList();
 
             if (extrato.SaldoInsuficiente(extrato.Saldo(listExtrato), extrato.Valor))
-                ModelState.AddModelError(nameof(extrato.Valor), "Saldo insuficiente");
+                ModelState.AddModelError(nameof(extrato.Valor), SaldoInsuficiente);
 
             if (ModelState.IsValid)
             {

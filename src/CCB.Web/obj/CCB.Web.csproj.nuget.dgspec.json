@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Web\\CCB.Web.csproj": {}
+    "D:\\Repos\\src\\CCB.Web\\CCB.Web.csproj": {}
   },
   "projects": {
-    "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Domain\\CCB.Domain.csproj": {
+    "D:\\Repos\\src\\CCB.Domain\\CCB.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Domain\\CCB.Domain.csproj",
+        "projectUniqueName": "D:\\Repos\\src\\CCB.Domain\\CCB.Domain.csproj",
         "projectName": "CCB.Domain",
-        "projectPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Domain\\CCB.Domain.csproj",
+        "projectPath": "D:\\Repos\\src\\CCB.Domain\\CCB.Domain.csproj",
         "packagesPath": "C:\\Users\\gigis\\.nuget\\packages\\",
-        "outputPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Domain\\obj\\",
+        "outputPath": "D:\\Repos\\src\\CCB.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -70,14 +70,14 @@
         }
       }
     },
-    "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj": {
+    "D:\\Repos\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj",
+        "projectUniqueName": "D:\\Repos\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj",
         "projectName": "CCB.Infra.Data",
-        "projectPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj",
+        "projectPath": "D:\\Repos\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\gigis\\.nuget\\packages\\",
-        "outputPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Infra.Data\\obj\\",
+        "outputPath": "D:\\Repos\\src\\CCB.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -98,8 +98,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Domain\\CCB.Domain.csproj": {
-                "projectPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Domain\\CCB.Domain.csproj"
+              "D:\\Repos\\src\\CCB.Domain\\CCB.Domain.csproj": {
+                "projectPath": "D:\\Repos\\src\\CCB.Domain\\CCB.Domain.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Service\\CCB.Service.csproj": {
+    "D:\\Repos\\src\\CCB.Service\\CCB.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Service\\CCB.Service.csproj",
+        "projectUniqueName": "D:\\Repos\\src\\CCB.Service\\CCB.Service.csproj",
         "projectName": "CCB.Service",
-        "projectPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Service\\CCB.Service.csproj",
+        "projectPath": "D:\\Repos\\src\\CCB.Service\\CCB.Service.csproj",
         "packagesPath": "C:\\Users\\gigis\\.nuget\\packages\\",
-        "outputPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Service\\obj\\",
+        "outputPath": "D:\\Repos\\src\\CCB.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -176,11 +176,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Domain\\CCB.Domain.csproj": {
-                "projectPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Domain\\CCB.Domain.csproj"
+              "D:\\Repos\\src\\CCB.Domain\\CCB.Domain.csproj": {
+                "projectPath": "D:\\Repos\\src\\CCB.Domain\\CCB.Domain.csproj"
               },
-              "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj": {
-                "projectPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj"
+              "D:\\Repos\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj": {
+                "projectPath": "D:\\Repos\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj"
               }
             }
           }
@@ -215,14 +215,14 @@
         }
       }
     },
-    "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Web\\CCB.Web.csproj": {
+    "D:\\Repos\\src\\CCB.Web\\CCB.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Web\\CCB.Web.csproj",
+        "projectUniqueName": "D:\\Repos\\src\\CCB.Web\\CCB.Web.csproj",
         "projectName": "CCB.Web",
-        "projectPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Web\\CCB.Web.csproj",
+        "projectPath": "D:\\Repos\\src\\CCB.Web\\CCB.Web.csproj",
         "packagesPath": "C:\\Users\\gigis\\.nuget\\packages\\",
-        "outputPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Web\\obj\\",
+        "outputPath": "D:\\Repos\\src\\CCB.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -243,11 +243,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj": {
-                "projectPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj"
+              "D:\\Repos\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj": {
+                "projectPath": "D:\\Repos\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj"
               },
-              "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Service\\CCB.Service.csproj": {
-                "projectPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Service\\CCB.Service.csproj"
+              "D:\\Repos\\src\\CCB.Service\\CCB.Service.csproj": {
+                "projectPath": "D:\\Repos\\src\\CCB.Service\\CCB.Service.csproj"
               }
             }
           }

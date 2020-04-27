@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FBF4hkFKRFFtkSrlYjGzX2wS+CvwMWAy6CVmWto6qUz2E2SLpl2dr6HK9vB/2eHoXG/WpHFRVwcxQHEgDo1/rA==",
+  "dgSpecHash": "R2dHZGruoMH/mxUe2yIEPpUsKXcFqWfqPOBYIHAjQkftQs2ev9TLZcfoDppDRLi/4zB0rSdLdpORm5+Zvc9MeA==",
   "success": true,
-  "projectFilePath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Infra.CrossCutting\\CCB.Infra.CrossCutting.csproj",
+  "projectFilePath": "D:\\Repos\\src\\CCB.Infra.CrossCutting\\CCB.Infra.CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

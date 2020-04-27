@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Infra.CrossCutting\\CCB.Infra.CrossCutting.csproj": {}
+    "D:\\Repos\\src\\CCB.Infra.CrossCutting\\CCB.Infra.CrossCutting.csproj": {}
   },
   "projects": {
-    "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Infra.CrossCutting\\CCB.Infra.CrossCutting.csproj": {
+    "D:\\Repos\\src\\CCB.Infra.CrossCutting\\CCB.Infra.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Infra.CrossCutting\\CCB.Infra.CrossCutting.csproj",
+        "projectUniqueName": "D:\\Repos\\src\\CCB.Infra.CrossCutting\\CCB.Infra.CrossCutting.csproj",
         "projectName": "CCB.Infra.CrossCutting",
-        "projectPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Infra.CrossCutting\\CCB.Infra.CrossCutting.csproj",
+        "projectPath": "D:\\Repos\\src\\CCB.Infra.CrossCutting\\CCB.Infra.CrossCutting.csproj",
         "packagesPath": "C:\\Users\\gigis\\.nuget\\packages\\",
-        "outputPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Infra.CrossCutting\\obj\\",
+        "outputPath": "D:\\Repos\\src\\CCB.Infra.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

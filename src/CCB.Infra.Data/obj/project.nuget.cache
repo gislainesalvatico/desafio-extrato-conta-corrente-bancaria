@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GILMZNczYpyTv0VFHCSKzuNI68nO2SAcUWOjo4eFmaKzIXnBSvtthPi/Xgw8u5f/XCMTbZac0SQAB+h+Kg5HgA==",
+  "dgSpecHash": "KK3PACV5JwtbR2Z+xk+RXZTsrF7EmbeflOf4NTIElTlyv/0fuLbP9vpbJEB9otZapgJeqEdCT1o2GuW8bGTQQg==",
   "success": true,
-  "projectFilePath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj",
+  "projectFilePath": "D:\\Repos\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gigis\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\gigis\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.2\\fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",

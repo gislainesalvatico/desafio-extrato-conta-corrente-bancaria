@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mKL/gKlsMnUTOgxw/lXZKjnudxcLD2fgRB2nzToZ/S6a3xA33bLzSroNPP7GIMuLi4I5v3Q62TUo7CkjMA9LlA==",
+  "dgSpecHash": "YhvY2Emz0L+hbeNf4SxwSqh3/PlkSFXtiHk+/hyOk35EStGDyQbat7TDdsDULxAI7Wa2V2u3/aY3vlb1IIW1tQ==",
   "success": true,
-  "projectFilePath": "D:\\Desafios\\ContaCorrenteBancaria\\tests\\CCB.Tests\\CCB.Tests.csproj",
+  "projectFilePath": "D:\\Repos\\tests\\CCB.Tests\\CCB.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gigis\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\gigis\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

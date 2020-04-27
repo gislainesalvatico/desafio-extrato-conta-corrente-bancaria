@@ -984,11 +984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj",
+      "projectUniqueName": "D:\\Repos\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj",
       "projectName": "CCB.Infra.Data",
-      "projectPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj",
+      "projectPath": "D:\\Repos\\src\\CCB.Infra.Data\\CCB.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\gigis\\.nuget\\packages\\",
-      "outputPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Infra.Data\\obj\\",
+      "outputPath": "D:\\Repos\\src\\CCB.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -1009,8 +1009,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Domain\\CCB.Domain.csproj": {
-              "projectPath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Domain\\CCB.Domain.csproj"
+            "D:\\Repos\\src\\CCB.Domain\\CCB.Domain.csproj": {
+              "projectPath": "D:\\Repos\\src\\CCB.Domain\\CCB.Domain.csproj"
             }
           }
         }
