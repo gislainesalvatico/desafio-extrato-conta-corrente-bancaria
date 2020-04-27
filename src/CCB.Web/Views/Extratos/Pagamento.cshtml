@@ -1,0 +1,22 @@
+﻿@model CCB.Web.Models.Extrato
+
+@{
+    ViewData["Titulo"] = "Pagamento";
+}
+
+<h1>@ViewData["Titulo"]</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Pagamento">
+            <partial name="_DadosFormulario" />
+
+            @*<a asp-controller="Extratos" asp-action="Deposito" class="btn btn-primary">Salvar</a>
+            <a asp-controller="Extratos" asp-action="Index" class="btn btn-primary">Cancelar</a>*@
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

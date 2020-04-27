@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Eb6EdSuj6mUGKsmguuTTWcFTyg9Tb7YYO8PjF7Lbrfol1frEoJGPO7sLHB1JzfxLW8WKvLX38hM/3ML+l5ovg==",
+  "success": true,
+  "projectFilePath": "D:\\Desafios\\ContaCorrenteBancaria\\src\\CCB.Domain\\CCB.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gigis\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\gigis\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.2\\fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
+    "C:\\Users\\gigis\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.2\\fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
+    "C:\\Users\\gigis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\gigis\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

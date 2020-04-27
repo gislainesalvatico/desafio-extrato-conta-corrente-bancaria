@@ -1,0 +1,18 @@
+﻿@model CCB.Web.Models.Extrato
+
+<div class="form-group">
+    <label asp-for="Historico" class="control-label"></label>
+    <input asp-for="Historico" class="form-control" />
+    <span asp-validation-for="Historico" class="text-danger"></span>
+</div>
+
+<div class="form-group">
+    <label asp-for="Valor" class="control-label"></label>
+    <input asp-for="Valor" asp-format="{0:0.##}" class="form-control" />
+    <span asp-validation-for="Valor" class="text-danger"></span>
+</div>
+
+<div class="form-group">
+    <input type="submit" value="Salvar" class="btn btn-primary" />
+    <a asp-controller="Extratos" asp-action="Index" class="btn btn-primary">Cancelar</a>
+</div>
