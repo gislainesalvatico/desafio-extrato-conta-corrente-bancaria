@@ -1,5 +1,5 @@
 # desafio-extrato-conta-corrente-bancaria
-Desafio para criação de uma aplicação de extrato de conta corrente bancária com .NET Core, DDD, MySQL e NUnit.
+Desafio para criação de uma aplicação de extrato de conta corrente bancária com .NET Core, DDD e MySQL.
 
 # Como executar a aplicação
 1. Crie um banco de dados MySQL vazio.
